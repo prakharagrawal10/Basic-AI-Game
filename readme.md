@@ -35,7 +35,5 @@ If you'd like to contribute to this project, you can:
 5. Submit a pull request detailing your changes.
 
 ## Credits
-This project was created by [Your Name].
+This project was created by Prakhar Agrawal.
 
-## License
-This project is licensed under the [MIT License](LICENSE).

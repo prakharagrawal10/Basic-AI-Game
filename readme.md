@@ -20,7 +20,7 @@ Chasing AI is a simple game built using Pygame where a player-controlled charact
 ## How to Play
 1. Clone or download the repository to your local machine.
 2. Make sure you have Python and Pygame installed on your machine.
-3. Run the `chasing_ai.py` file.
+3. Run the `game.py` file.
 4. Use the mouse cursor to control the movement of the blue target square.
 5. The red square will automatically chase the blue target square.
 6. Try to evade the red square for as long as possible!
